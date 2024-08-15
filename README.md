@@ -1,5 +1,5 @@
-### Hi there 🫰
-### Boas vindas ao meu perfil 🤙
+
+### hello vindas ao meu perfil 🤙
 Meu nome e **VICTOR MATHEUS**
 
 Estou estundando no **Alura**
